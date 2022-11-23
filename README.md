@@ -1,6 +1,8 @@
 ###简单爬虫
 ## 框架
-nodejs + mongodb
+cheerio+nodejs + mongodb
+## 环境
+需要安装mogondb
 ## Runing
 1.npm install
 
